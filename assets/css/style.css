@@ -141,7 +141,7 @@ div.container {
 /* contact start */
 
 input[type=text], select, textarea {
-    width: 960px; 
+    width: 900px; 
     padding: 12px;  
     border: 1px solid #dddddd; 
     box-sizing: border-box; 
